@@ -23,8 +23,8 @@ title: Dyscaperoom
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about-the-project"
-  News: "news"
+  Acerca: "about-the-project"
+#  News: "news"
   Project Repository: "https://gitlab.com/martiriera/PAEscape"
 #    - Project Repository: "https://gitlab.com/martiriera/PAEscape"
 #    - OpenMRS: "https://openmrs.org/"
